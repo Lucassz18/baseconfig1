@@ -1,0 +1,2 @@
+Todar com:
+Python 3.10
